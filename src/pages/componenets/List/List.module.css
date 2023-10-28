@@ -1,3 +1,7 @@
 .list {
   display: inline-block;
 }
+.listDone {
+  background-color: lightgreen;
+  border-radius: 10px;
+}
